@@ -20,7 +20,7 @@ Sou formada em Tecnologia da Informação e Sistemas pelo Senac, com apoio do pr
 <img align="right" alt="Gif-Ge" width="130px;" style="padding: 20px; margin-top: 5px;" src="https://s8.ezgif.com/tmp/ezgif-814539b483c697.webp">
 </div>
 
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
