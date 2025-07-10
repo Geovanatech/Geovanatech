@@ -17,7 +17,7 @@ Sou formada em Tecnologia da Informação e Sistemas pelo Senac, com apoio do pr
 <a href="mailto:geovanacarrasco001@gmail.com?subject=Olá&body=Escreva%20sua%20mensagem%20aqui" title="Enviar Email">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Email">
 </a>
-<img align="right" alt="Gif-Ge" width="130px;" style="padding: 20px; margin-top: 5px;" src="https://s8.ezgif.com/tmp/ezgif-814539b483c697.webp">
+<img align="right" alt="Gif-Ge" width="130px;" style="padding: 20px; margin-top: 5px;" src="https://s2.ezgif.com/tmp/ezgif-2360678ca2e105.webp">
 </div>
 
 
