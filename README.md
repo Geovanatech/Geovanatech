@@ -1,4 +1,4 @@
-# o(*￣▽￣*)o Geovana 🦇
+# o(*￣▽￣*)o Seja bem-vindo(a) 🦇
 **`Desenvolvedora FullStack foco front-end`**
 
 👋 Olá! Me chamo Geovana, tenho 16 anos e estou no 2º ano do Ensino Médio.
