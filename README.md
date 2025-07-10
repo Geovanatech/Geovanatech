@@ -7,13 +7,16 @@ Sou formada em Tecnologia da Informação e Sistemas pelo Senac, com apoio do pr
 💻 Durante minha formação, desenvolvi habilidades tanto técnicas (front-end e back-end) quanto comportamentais, por meio de workshops, palestras e vivências práticas.
 
 ✨ Acredito na tecnologia como ferramenta de transformação e é isso que me move!
-📌 No LinkedIn "[Geovana Carrasco](https://www.linkedin.com/in/geovana-carrasco-4b9032358/)" compartilho aprendizados, conquistas e certificados.
+📌 No LinkedIn compartilho aprendizados, conquistas e certificados.
 🚀 Buscando minha primeira oportunidade em TI, com interesse em atuar no front mas também aberta para back-end.
 
 <div>
 <a href="https://www.linkedin.com/in/geovana-carrasco-4b9032358/" target="_blank" alt="Acompanhe meu perfil" title="Acompanhe meu perfil" ><img  style="padding-right: 10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/gerockby/?utm_source=qr&igsh=OWJyZXdwMzM0ejFh#" target="_blank" alt="Siga-me" title="Siga-me " ><img style="padding-right:10px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:geovanacarrasco001@gmail.com?" target="_blank" alt="Enviar Email" title="Enviar Email"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:geovanacarrasco001@gmail.com?subject=Olá&body=Escreva%20sua%20mensagem%20aqui" title="Enviar Email">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Email">
+</a>
+
 </div>
 
 ---
