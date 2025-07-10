@@ -13,10 +13,7 @@ Sou formada em Tecnologia da Informação e Sistemas pelo Senac, com apoio do pr
 <div>
 <a href="https://www.linkedin.com/in/geovana-carrasco-4b9032358/" target="_blank" alt="Acompanhe meu perfil" title="Acompanhe meu perfil" ><img  style="padding-right: 10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/gerockby/?utm_source=qr&igsh=OWJyZXdwMzM0ejFh#" target="_blank" alt="Siga-me" title="Siga-me " ><img style="padding-right:10px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:geovanacarrasco001@gmail.com" target="_blank" alt="Enviar Email" title="Enviar Email" ><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-
-
+<a href="mailto:geovanacarrasco001@gmail.com?" target="_blank" alt="Enviar Email" title="Enviar Email"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ---
