@@ -1,5 +1,5 @@
 # o(*￣▽￣*)o Seja bem-vindo(a) 🦇
-**`Desenvolvedora FullStack foco front-end`**
+**`TI | Análise de Dados`**
 
 👋 Olá! Me chamo Geovana, tenho 17 anos e estou no 2º ano do Ensino Médio.
 Sou formada em Tecnologia da Informação e Sistemas pelo Senac, com apoio do projeto GaleraTech, que capacita jovens para o mercado de TI.
