@@ -6,6 +6,8 @@ Sou formada em Tecnologia da Informação e Sistemas pelo Senac, com apoio do pr
 
 💻 Durante minha formação, desenvolvi habilidades tanto técnicas (front-end e back-end) quanto comportamentais, por meio de workshops, palestras e vivências práticas.
 
+📈 Analista de Dados em formação
+
 ✨ Acredito na tecnologia como ferramenta de transformação e é isso que me move!
 📌 No LinkedIn compartilho aprendizados, conquistas e certificados.
 🚀 Sempre em busca de Inovação e Oportunidades.
