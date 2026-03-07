@@ -1,7 +1,7 @@
 # o(*￣▽￣*)o Seja bem-vindo(a) 🦇
 **`TI | Análise de Dados`**
 
-👋 Olá! Me chamo Geovana, tenho 17 anos e estou no 2º ano do Ensino Médio.
+👋 Olá! Me chamo Geovana, tenho 17 anos e estou no 3º ano do Ensino Médio.
 Sou formada em Tecnologia da Informação e Sistemas pelo Senac, com apoio do projeto GaleraTech, que capacita jovens para o mercado de TI.
 
 💻 Durante minha formação, desenvolvi habilidades tanto técnicas (front-end e back-end) quanto comportamentais, por meio de workshops, palestras e vivências práticas.
